@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @RedJem01
-- I am a platform engineer mainly working with AWS.
-- I also have experience being a DevOps engineer.
+
